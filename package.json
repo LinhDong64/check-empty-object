@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/LinhDong64/check-empty-object/issues"
   },
-  "homepage": "https://github.com/LinhDong64/check-empty-object#readme"
+  "homepage": "https://github.com/LinhDong64/check-empty-object#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.6"
+  }
 }
