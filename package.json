@@ -1,0 +1,26 @@
+{
+  "name": "check-empty-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinhDong64/check-empty-object.git"
+  },
+  "keywords": [
+    "Check",
+    "an",
+    "object",
+    "is",
+    "empty"
+  ],
+  "author": "LinhDong64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinhDong64/check-empty-object/issues"
+  },
+  "homepage": "https://github.com/LinhDong64/check-empty-object#readme"
+}
